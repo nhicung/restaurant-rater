@@ -11,7 +11,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import android.widget.Toast;
-
+import android.util.Log;
 import java.util.ArrayList;
 
 public class RestaurantAdapter extends RecyclerView.Adapter {
