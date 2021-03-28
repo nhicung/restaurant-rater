@@ -62,7 +62,7 @@ Install [Android Studio 3.4.1](https://developer.android.com/studio/archive) for
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## Acknowledgments
+## Acknowledgement
 
 * Instructor: [Professor Chinazunwa Uwaoma - Claremont Graduate University](https://www.cgu.edu/people/chinazunwa-uwaoma/)
 
