@@ -42,15 +42,15 @@ Install [Android Studio 3.4.1](https://developer.android.com/studio/archive) for
 
 ### Rate Dish Scene
 
-<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishAdd.png" width="262" height="465" />   <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishSave.png" width="262" height="465" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishAdd.png" width="262" height="465" /> &nbsp;  <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishSave.png" width="262" height="465" />
 
 ### Restaurant List Scene
 
-<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantList.png" width="262" height="465" />   <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantDelete.png" width="262" height="465" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantList.png" width="262" height="465" /> &nbsp;  <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantDelete.png" width="262" height="465" />
 
 ### Dish List Scene
 
-<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishList.png" width="262" height="465" />   <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishDelete.png" width="262" height="465" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishList.png" width="262" height="465" /> &nbsp;  <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishDelete.png" width="262" height="465" />
 
 ## Technology
 
