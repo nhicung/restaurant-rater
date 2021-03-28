@@ -22,7 +22,7 @@ Install [Android Studio 3.4.1](https://developer.android.com/studio/archive) for
 1. Download Android Studio from the link
 2. Follow the instruction and install it to your device
 3. Open the project on Android Studio 
-4. Set up simulator follwing the instruction [here](https://developer.android.com/studio/run/managing-avds) (the simulator I chose to develop this app is Pixel 2 API 28
+4. Set up simulator follwing the instruction [here](https://developer.android.com/studio/run/managing-avds) (the simulator I chose to develop this app is Pixel 2 API 28)
 5. Run the project on the simulator that just set up.
 
 ## Feature
