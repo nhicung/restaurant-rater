@@ -38,11 +38,11 @@ Install [Android Studio 3.4.1](https://developer.android.com/studio/archive) for
 
 ### Restaurant Info Scene
 
-<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantAdd.png" width="262" height="465" /> &nbsp;  <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantRateSave.png" width="262" height="465" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantAdd.png" width="262" height="465" /> &nbsp;  <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantRateSave.png" width="262" height="480" />
 
 ### Rate Dish Scene
 
-<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishAdd.png" width="262" height="465" /> &nbsp;  <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishSave.png" width="262" height="465" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishAdd.png" height="465" /> &nbsp;  <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishSave.png" width="262" height="480" />
 
 ### Restaurant List Scene
 
