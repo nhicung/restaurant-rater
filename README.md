@@ -7,7 +7,7 @@ An Adroid application that allows users to save their favorite restaurants and r
 * [View](#view)
 * [Technology](#technology)
 * [License](#license)
-* [Acknowledgements](#acknowledgements)
+* [Acknowledgements](#Acknowledgements)
 * [Reference](#reference)
 
 ## Getting Started
