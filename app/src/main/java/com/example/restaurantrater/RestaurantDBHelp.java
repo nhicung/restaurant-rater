@@ -7,7 +7,7 @@ import android.util.Log;
 public class RestaurantDBHelp extends SQLiteOpenHelper {
 
     private static final String DATABASE_NAME = "restaurantRater.db";
-    private static final int DATABASE_VERSION = 2;
+    private static final int DATABASE_VERSION = 4;
 
     private static final String CREATE_TABLE_RESTAURANT = "create table restaurant (_id integer primary key autoincrement," + " restaurantname text not null, " + " streetaddress text, " + " city text, " + "state text," + " zipcode text);";
     private static final String CREATE_TABLE_DISH =

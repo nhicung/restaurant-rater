@@ -7,44 +7,44 @@
     tools:context=".MainActivity">
 
     <LinearLayout
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="24dp"
+    android:background="@color/system_transparent"
+    android:orientation="horizontal"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintHorizontal_bias="1.0"
+    app:layout_constraintStart_toStartOf="parent">
+
+    <ImageButton
+        android:id="@+id/imageButtonLocation"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:layout_marginBottom="24dp"
-        android:background="@color/system_transparent"
-        android:orientation="horizontal"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent">
-
-        <ImageButton
-            android:id="@+id/imageButtonLocation"
-            android:layout_width="0dp"
-            android:layout_height="50dp"
-            android:layout_marginLeft="45dp"
-            android:layout_marginTop="15dp"
-            android:layout_marginRight="110dp"
-            android:layout_marginBottom="15dp"
-            android:layout_weight="1"
-            android:adjustViewBounds="true"
-            android:background="@drawable/plus"
-            android:contentDescription="@string/button_to_display_address"
-            android:padding="30dp" />
+        android:layout_height="50dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="110dp"
+        android:layout_marginBottom="15dp"
+        android:layout_weight="1"
+        android:adjustViewBounds="true"
+        android:background="@drawable/plus"
+        android:contentDescription="@string/button_to_display_address"
+        android:padding="30dp" />
 
 
-        <ImageButton
-            android:id="@+id/imageButtonList"
-            android:layout_width="0dp"
-            android:layout_height="50dp"
-            android:layout_marginLeft="110dp"
-            android:layout_marginTop="15dp"
-            android:layout_marginRight="45dp"
-            android:layout_marginBottom="15dp"
-            android:layout_weight="1"
-            android:background="@drawable/list"
-            android:contentDescription="@string/button_to_display_list"
-            android:padding="30dp" />
-    </LinearLayout>
+    <ImageButton
+        android:id="@+id/imageButtonList"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginBottom="15dp"
+        android:layout_weight="1"
+        android:background="@drawable/list"
+        android:contentDescription="@string/button_to_display_list"
+        android:padding="30dp" />
+</LinearLayout>
 
 
     <TextView
