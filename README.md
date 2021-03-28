@@ -50,7 +50,7 @@ Install [Android Studio 3.4.1](https://developer.android.com/studio/archive) for
 
 ### Dish List Scene
 
-<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishList1.png" height="480" /> > &nbsp;  <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishDelete.png" height="480" /> &nbsp;  <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishList2.png" height="480" /
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishList1.png" height="480" />  &nbsp;  <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishDelete.png" height="480" /> &nbsp;  <img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishList2.png" height="480" />
 
 ## Technology
 
