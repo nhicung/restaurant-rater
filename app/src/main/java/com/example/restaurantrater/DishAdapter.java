@@ -75,17 +75,17 @@ public class DishAdapter extends RecyclerView.Adapter {
         cvh.getType().setText(dishData.get(position).getDishType());
         cvh.getRate().setText(String.valueOf(dishData.get(position).getRate()));
 
-//        if (isDeleting){
-//            cvh.getDeleteButton().setVisibility(View.VISIBLE);
-//            cvh.getDeleteButton().setOnClickListener(new View.OnClickListener() {
-//                @Override
-//                public void onClick(View v) {
-//                    deleteItem(position);
-//                }
-//            });
-//        } else {
-//            cvh.getDeleteButton().setVisibility(View.INVISIBLE);
-//        }
+        if (isDeleting){
+            cvh.getDeleteButton().setVisibility(View.VISIBLE);
+            cvh.getDeleteButton().setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    deleteItem(position);
+                }
+            });
+        } else {
+            cvh.getDeleteButton().setVisibility(View.INVISIBLE);
+        }
 
     }
 
