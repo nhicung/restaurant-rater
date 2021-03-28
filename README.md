@@ -15,14 +15,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Install [Android Studio 3.4.1] (https://developer.android.com/studio/archive) for the best compatible version of this app.
+Install [Android Studio 3.4.1](https://developer.android.com/studio/archive) for the best compatible version of this app.
 
 ### Installing
 
 1. Download Android Studio from the link
 2. Follow the instruction and install it to your device
 3. Open the project on Android Studio 
-4. Set up simulator follwing the instruction [here] (https://developer.android.com/studio/run/managing-avds) (the simulator I chose to develop this app is Pixel 2 API 28
+4. Set up simulator follwing the instruction [here](https://developer.android.com/studio/run/managing-avds) (the simulator I chose to develop this app is Pixel 2 API 28
 5. Run the project on the simulator that just set up.
 
 ## Feature
@@ -36,28 +36,30 @@ Install [Android Studio 3.4.1] (https://developer.android.com/studio/archive) fo
 
 ## View
 
-### Title Scene
+### Restaurant Info Scene
 
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/Menu.png" width="262" height="458" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantAdd.png" width="262" height="458" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantRateSave.png" width="262" height="458" />
 
-### Instruction Scene
+### Rate Dish Scene
 
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/Instruction.png" width="262" height="458" />
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/story.png" width="262" height="458" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishAdd.png" width="262" height="458" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishSave.png" width="262" height="458" />
 
-### Game Play Scene
+### Restaurant List Scene
 
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/gameplay.png" width="262" height="458" />
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/gameplayGif.gif" width="262" height="458" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantList.png" width="262" height="458" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/RestaurantDelete.png" width="262" height="458" />
 
-### Setting Scene
+### Dish List Scene
 
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/setting.png" width="262" height="458" />
-<img src="https://github.com/nhicung/SquishySquirrel/blob/master/images/paused.png" width="262" height="458" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishList.png" width="262" height="458" />
+<img src="https://github.com/nhicung/restaurant-rater/blob/master/screenshot/DishDelete.png" width="262" height="458" />
 
 ## Technology
 
-* Built with [Unity](https://unity.com)
+* Built with [Android Studio](https://developer.android.com/studio)
+* Icons by [Flaticon](https://www.flaticon.com)
 
 ## License
 
@@ -65,6 +67,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* Contributors: Thu Nguyen, Musa Khan
-* Instructor: Professor Monica M. McGill
-* Inspiration: Knox College's squirrels
+* Instructor: [Professor Chinazunwa Uwaoma - Claremont Graduate University](https://www.cgu.edu/people/chinazunwa-uwaoma/)
+
+## Reference
+https://books.google.com/books/about/Mobile_App_Development.html?id=Zrk4MQAACAAJ&source=kp_book_description
